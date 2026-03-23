@@ -19,7 +19,7 @@ describe("test AnalyzableOverview", () => {
       data: {
         jobs: [
           {
-            playbook: "Dns",
+            playbook: "DNS",
             id: 13,
             user: "admin",
             date: jobDate,
